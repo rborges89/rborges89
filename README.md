@@ -1,6 +1,6 @@
 <!-- Working GIF -->
 <img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg" alt="dev_object" align="left" width="400" height="200"/> 
-<p><em>I am a Software Engineer since 2013, of the University of Computer 💻 Sciences of Havana, Cuba 💪 🧑‍ 💪</em></p>
+<p>I am a Software Engineer since 2013, of the University of Computer 💻 Sciences of Havana, Cuba 💪 🧑‍ 💪</p>
 <p><em>Full-Stack developer in Instapack and <a href="https://isnsecurity.com/">International Security Networks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></em></a>
 
 ### My skills
