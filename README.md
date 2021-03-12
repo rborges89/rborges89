@@ -1,5 +1,5 @@
 <!-- Working GIF -->
-<img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg" alt="dev_object" align="left" width="500" height="250"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></br>
+<img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg" alt="dev_object" align="left" width="400" height="200"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></br>
 </em></p></img>
 
 <p><em>I am a Software Engineer since 2013, of the University of Computer Sciences of Havana, Cuba 💪 🧑‍💻 💪</em></p>
