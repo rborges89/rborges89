@@ -1,7 +1,9 @@
 <img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg" height="200"/>
 
 
-<p><em>I am a computer science engineer from the University of Informatics Sciences from Havana, Cuba since 2013 💪😏😏💪</br>
+<p><em>I am a Software Engineer since 2013, graduated from the University of Computer Sciences of Havana, Cuba since 2013 💪😏😏💪</br>
+</em></p>
+<p><em>Programmer and consultant at ISN <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
 
 
