@@ -1,5 +1,5 @@
 <!-- Working GIF -->
-<img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg" height="200"/>
+<img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg" alt="dev_object" align="right" width="500" height="250"/>
 
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development
