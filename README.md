@@ -2,7 +2,7 @@
 
 
 <p><em>I am a Software Engineer since 2013, of the University of Computer Sciences of Havana, Cuba 💪 🧑‍💻 💪</em></p>
-<p><em>Full-Stack programmer in Instapack and <a href="https://isnsecurity.com/">International Security Networks</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></br>
+<p><em>Full-Stack developer in Instapack and <a href="https://isnsecurity.com/">International Security Networks</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></br>
 </em></p>
 
 
