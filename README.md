@@ -12,11 +12,11 @@ const aboutMe = {
    tools: ["Docker", "Git", "Azure-Devops", "Gulp", "Webpack"],
    technologies: {
       frontEnd: {
-         js:  ["Vuejs", "AngularJs, Jquery"],
-         css: ["Vuetify", "Bootstrap", "Material Design"]
+         js:  [Vuejs, Quasar, AngularJs, Jquery"],
+         css: [Vuetify, Bootstrap, Material Design]
       },
       backEnd: {
-         php: ["Symfony"]
+         php: ["Symfony", "GraphQl", "Rest"]
       },
       databases: ["PostgreSql", "MySQL", "SQLServer"],
       mobile: ["Capacitor", "Vuejs-Nativescript"]
