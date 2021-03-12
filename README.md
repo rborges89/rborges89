@@ -1,9 +1,9 @@
 <img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg" height="200"/>
 
 
-<p><em>I am a Software Engineer since 2013, graduated from the University of Computer Sciences of Havana, Cuba since 2013 💪😏😏💪</br>
+<p><em>I am a Software Engineer since 2013, graduated from the University of Computer Sciences of Havana, Cuba 💪😏💪</br>
 </em></p>
-<p><em>Programmer and consultant at <a href="https://isnsecurity.com/">International Security Networks</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></br>
+<p><em>Programmer and consultant at <a href="https://isnsecurity.com/">International Security Networks</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></br>
 </em></p>
 
 
