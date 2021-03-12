@@ -1,7 +1,7 @@
 <img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg"/>
 
 
-<p><em>Soy ingeniero de en ciencias informaticas de la Universidad de Ciencias informaticas, Havana Cuba desde el 2013. 💪💪😊</br>
+<p><em>Soy ingeniero de en ciencias informaticas de la Universidad de Ciencias informaticas, Havana Cuba desde el 2013. 💪💪💪</br>
 </em></p>
 
 
