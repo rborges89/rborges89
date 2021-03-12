@@ -1,4 +1,4 @@
-<img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg"/>
+<img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg" heigth="50"/>
 
 
 <p><em>I am a computer science engineer from the University of Informatics Sciences from Havana, Cuba since 2013 💪😏😏💪</br>
