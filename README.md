@@ -4,7 +4,8 @@
 <p>I am a Software Engineer since 2013, of the University of Computer 💻 Sciences of Havana, Cuba 💪 🧑‍ 💪</p>
 <p><em>Full-Stack in Instapack and <a href="https://isnsecurity.com/">International Security Networks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></em></a>
 </div>
-<br>
+<div>
+
 ### My skills
 ```javascript
 const aboutMe = {
@@ -74,3 +75,4 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 
 </br>
+</div>
