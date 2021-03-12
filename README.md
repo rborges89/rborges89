@@ -13,7 +13,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js:  ["Vuejs", "AngularJs, Jquery"],
-         css: ["Vuetify","Bootstrap", "Material Design", "Semantic UI"]
+         css: ["Vuetify", "Bootstrap", "Material Design"]
       },
       backEnd: {
          php: ["Symfony"]
