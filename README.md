@@ -8,19 +8,19 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
+   pronouns: "he" | "him" | "Ing",
    code: [Javascript, Typescript, PHP, HTML, CSS],
-   tools: ["Docker", "Git", "Azure-Devops", "Gulp", "Webpack"],
+   tools: [Docker, Git, Azure-Devops, Gulp, Webpack],
    technologies: {
       frontEnd: {
-         js:  [Vuejs, Quasar, AngularJs, Jquery"],
+         js:  [Vuejs, Quasar, AngularJs, Jquery],
          css: [Vuetify, Bootstrap, Material Design]
       },
       backEnd: {
          php: ["Symfony", "GraphQl", "Rest"]
       },
-      databases: ["PostgreSql", "MySQL", "SQLServer"],
-      mobile: ["Capacitor", "Vuejs-Nativescript"]
+      databases: [PostgreSql, MySQL, SQLServer],
+      mobile: [Capacitor, Vuejs-Nativescript]
    }
 };
 ```
