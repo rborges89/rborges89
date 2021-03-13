@@ -1,10 +1,10 @@
 <!-- Working GIF -->
 <img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg" alt="dev_object" align="center" width="1020" height="180"/> 
  <br> 
-<p> :writing_hand: I am a Software Engineer since 2013, of the University of Computer 💻 Sciences of Havana, Cuba 💪 🧑‍ 💪</p>
-<p> 💻 Full-Stack in Instapack and <a href="https://isnsecurity.com/">International Security Networks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></a>
+<p> :writing_hand: I am a Software Engineer since 2013, of the University of Computer 💻 Sciences of Havana, Cuba 💪 🧑‍ 💪.</p>
+<p> 💻 Full-Stack in Instapack and <a href="https://isnsecurity.com/">International Security Networks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">.</a>
  
-:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 and PHP, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔/Symfony 𝒏𝒆𝒓𝒅. 
+:vulcan_salute: I put mostly of my focus on web development wiht Javascript and PHP, and I'm a Vue.js && Symfoyny nerd. 
 
 ### Tech Stack :computer:
 <table>
