@@ -66,8 +66,8 @@ const aboutMe = {
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
+<span><b><center>Vuetify</center></b></span> 
+<img height=65px src="https://seeklogo.com/vector-logo/328208/vuetify"> 
 </td>
 
 <td align="center" width="20%">
