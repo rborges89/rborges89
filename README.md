@@ -38,7 +38,7 @@ const aboutMe = {
 
 <td align="center" width="20%">
 <span><b><center>Vue.js</center></b></span> 
-<img height=60px src="https://seeklogo.com/vector-logo/274070/vue-js"> 
+<img height=60px src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -50,7 +50,7 @@ const aboutMe = {
 <tr>
 <td align="center" width="20%">
 <span><b><center>Azure</center></b></span> 
-<img height=65px src="https://seeklogo.com/images/M/microsoft-azure-logo-A5763BE4D0-seeklogo.com.png"> 
+<img height=65px src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
