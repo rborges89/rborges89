@@ -135,6 +135,12 @@ const aboutMe = {
    <span><b><center>AngularJs</center></b></span> 
    <img height=65px src="https://seeklogo.com/images/A/angular-js-logo-BEDAA295A8-seeklogo.com.png"> 
    </td>
+   
+   <td align="center" width="20%">
+   <span><b><center>Html</center></b></span> 
+   <img height=65px src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"> 
+   </td>
+   
 </tr>
 
 </tbody>
