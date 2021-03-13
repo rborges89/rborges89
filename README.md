@@ -32,8 +32,8 @@ const aboutMe = {
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<span><b><center>PHP</center></b></span> 
+<img height=60px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FTibixbb_php-elephant-logo-png-image-background-php-7%2F&psig=AOvVaw0HcGY8PecgFYcw193p9UCE&ust=1615680642842000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjf7sz9q-8CFQAAAAAdAAAAABAD"> 
 </td>
 
 <td align="center" width="20%">
