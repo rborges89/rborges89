@@ -33,7 +33,7 @@ const aboutMe = {
  <tr>
 <td align="center" width="20%">
 <span><b><center>PHP</center></b></span> 
-<img height=60px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F2522737&psig=AOvVaw0HcGY8PecgFYcw193p9UCE&ust=1615680642842000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCLjf7sz9q-8CFQAAAAAdAAAAABAP"> 
+<img height=60px src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
