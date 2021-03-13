@@ -37,8 +37,8 @@ const aboutMe = {
 </td>
 
 <td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<span><b><center>Vue.js</center></b></span> 
+<img height=60px src="https://seeklogo.com/vector-logo/274070/vue-js"> 
 </td>
 
 <td align="center" width="20%">
@@ -49,8 +49,8 @@ const aboutMe = {
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<span><b><center>Azure</center></b></span> 
+<img height=65px src="https://seeklogo.com/images/M/microsoft-azure-logo-A5763BE4D0-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -59,8 +59,8 @@ const aboutMe = {
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+<span><b><center>Symfony</center></b></span> 
+<img height=65px src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png"> 
 </td>
 </tr>
 
@@ -78,8 +78,8 @@ const aboutMe = {
 
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+<span><b><center>GraphQL</center></b></span> 
+<img height=65px src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png"> 
 </td>
 </tr>
 
