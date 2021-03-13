@@ -6,27 +6,7 @@
 </div>
 <div>
 
-### My skills
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him" | "Ing",
-   code: [Javascript, Typescript, PHP, HTML, CSS],
-   tools: [Docker, Git, Azure-Devops, Gulp, Webpack],
-   technologies: {
-      frontEnd: {
-         js:  [Vuejs, Quasar, AngularJs, Jquery],
-         css: [Vuetify, Bootstrap, Material Design]
-      },
-      backEnd: {
-         php: ["Symfony", "GraphQl", "Rest"]
-      },
-      databases: [PostgreSql, MySQL, SQLServer],
-      mobile: [Capacitor, Vuejs-Nativescript]
-   }
-};
-```
-## Tech Stack :computer:
-
+### Tech Stack :computer:
 <br>
 <table>
 <tbody>
