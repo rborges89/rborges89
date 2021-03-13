@@ -1,4 +1,4 @@
-<!-- Working GIF -->
+<!-- Working GIF -->  
 <img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg" alt="dev_object" align="center" width="1500" height="250"/> 
  <br> 
 <p> :writing_hand: I am a Software Engineer since 2013, of the University of Computer 💻 Sciences of Havana, Cuba 💪 🧑‍ 💪</p>
@@ -128,7 +128,7 @@
 <h3>🤛 Connect with Me 🤜</h3> 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://seeklogo.com/images/L/linked-in-linkedin-logo-92FF20BA9B-seeklogo.com.png&link=https://www.linkedin.com/in/juan-ramón-borges-de-león-6097bb168/)](https://www.linkedin.com/in/juan-ramón-borges-de-león-6097bb168/)
+[![Linkedin: thaianebraga]<img height=60px src="https://seeklogo.com/images/L/linked-in-linkedin-logo-92FF20BA9B-seeklogo.com.png"/>
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
