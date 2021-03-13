@@ -67,7 +67,7 @@ const aboutMe = {
 <tr>
 <td align="center" width="20%">
 <span><b><center>Vuetify</center></b></span> 
-<img height=65px src="https://seeklogo.com/vector-logo/328208/vuetify"> 
+<img height=65px src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -85,8 +85,8 @@ const aboutMe = {
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+<span><b><center>MySql</center></b></span> 
+<img height=65px src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
