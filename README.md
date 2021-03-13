@@ -62,6 +62,11 @@ const aboutMe = {
 <span><b><center>Symfony</center></b></span> 
 <img height=65px src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png"> 
 </td>
+
+<td align="center" width="20%">
+<span><b><center>Javascript</center></b></span> 
+<img height=65px src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"> 
+</td>
 </tr>
 
 <tr>
@@ -97,6 +102,11 @@ const aboutMe = {
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
 <img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>AngularJs</center></b></span> 
+<img height=65px src="https://seeklogo.com/images/A/angular-js-logo-BEDAA295A8-seeklogo.com.png"> 
 </td>
 </tr>
 
