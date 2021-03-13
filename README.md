@@ -126,5 +126,5 @@
 </table>
 
 <h3>🤛 Connect with Me 🤜</h3> 
-<a href="https://www.linkedin.com/in/juan-ram%C3%B3n-borges-de-le%C3%B3n-6097bb168/"> <img height=40px src="https://seeklogo.com/images/L/linked-in-linkedin-logo-92FF20BA9B-seeklogo.com.png"/> </a>
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+<a href="https://www.linkedin.com/in/juan-ram%C3%B3n-borges-de-le%C3%B3n-6097bb168/"> <img height=35px src="https://seeklogo.com/images/L/linked-in-linkedin-logo-92FF20BA9B-seeklogo.com.png"/> </a>
+<a href="https://github.com/rborges89"> <img height=35px src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png"/> </a>
