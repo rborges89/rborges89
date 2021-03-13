@@ -6,8 +6,8 @@
 </div>
 <div>
 
-<br>
 ### Tech Stack :computer:
+<br>
 <table>
 <tbody>
  <tr>
