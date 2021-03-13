@@ -1,5 +1,5 @@
 <!-- Working GIF -->
-<img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg" alt="dev_object" align="center" width="1020" height="350"/> 
+<img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg" alt="dev_object" align="center" width="1500" height="250"/> 
  <br> 
 <p> :writing_hand: I am a Software Engineer since 2013, of the University of Computer 💻 Sciences of Havana, Cuba 💪 🧑‍ 💪.</p>
 <p> 💻 Full-Stack in Instapack and <a href="https://isnsecurity.com/">International Security Networks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">.</a>
