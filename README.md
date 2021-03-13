@@ -50,6 +50,11 @@ const aboutMe = {
    <span><b><center>Capacitor</center></b></span> 
    <img height=65px src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png"> 
    </td>
+   
+   <td align="center" width="20%">
+   <span><b><center>Vscode</center></b></span> 
+   <img height=65px src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"> 
+   </td>
 </tr>
 
 
@@ -73,9 +78,16 @@ const aboutMe = {
    <span><b><center>Javascript</center></b></span> 
    <img height=65px src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"> 
    </td>
+   
+   <td align="center" width="20%">
+   <span><b><center>Webstorm</center></b></span> 
+   <img height=65px src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png"> 
+   </td>
+   
    </tr>
 
    <tr>
+   
    <td align="center" width="20%">
    <span><b><center>Vuetify</center></b></span> 
    <img height=65px src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"> 
@@ -86,8 +98,6 @@ const aboutMe = {
    <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
    </td>
 
-
-
    <td align="center" width="20%">
    <span><b><center>GraphQL</center></b></span> 
    <img height=65px src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png"> 
@@ -97,6 +107,12 @@ const aboutMe = {
    <span><b><center>Gulp</center></b></span> 
    <img height=65px src="https://seeklogo.com/images/G/gulp-logo-415632861B-seeklogo.com.png"> 
    </td>
+   
+   <td align="center" width="20%">
+   <span><b><center>Phpstorm</center></b></span> 
+   <img height=65px src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png"> 
+   </td>
+   
 </tr>
 
 <tr>
