@@ -31,26 +31,28 @@ const aboutMe = {
 <table>
 <tbody>
  <tr>
-<td align="center" width="20%">
-<span><b><center>PHP</center></b></span> 
-<img height=60px src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png"> 
-</td>
+   <td align="center" width="20%">
+   <span><b><center>PHP</center></b></span> 
+   <img height=60px src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png"> 
+   </td>
 
-<td align="center" width="20%">
-<span><b><center>Vue.js</center></b></span> 
-<img height=60px src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"> 
-</td>
+   <td align="center" width="20%">
+   <span><b><center>Vue.js</center></b></span> 
+   <img height=60px src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"> 
+   </td>
 
-<td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
-</td>
+   <td align="center" width="20%">
+   <span><b><center>Docker</center></b></span> 
+   <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+   </td>
+   
+   <td align="center" width="20%">
+   <span><b><center>Capacitor</center></b></span> 
+   <img height=65px src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png"> 
+   </td>
 </tr>
 
-<td align="center" width="20%">
-<span><b><center>Capacitor</center></b></span> 
-<img height=65px src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png"> 
-</td>
+
 <tr>
 <td align="center" width="20%">
 <span><b><center>Azure</center></b></span> 
