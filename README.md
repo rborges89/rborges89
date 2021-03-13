@@ -4,10 +4,9 @@
 <p> :writing_hand: I am a Software Engineer since 2013, of the University of Computer 💻 Sciences of Havana, Cuba 💪 🧑‍ 💪.</p>
 <p> 💻 Full-Stack in Instapack and <a href="https://isnsecurity.com/">International Security Networks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">.</a>
  
-:vulcan_salute: I put mostly of my focus on web development wiht Javascript and PHP, and I'm a Vue.js && Symfoyny nerd. <br>
+:vulcan_salute: I put mostly of my focus on web development wiht Javascript and PHP, and I'm a Vue.js && Symfoyny nerd. <br><br>
 
-
-### Tech Stack :computer: ✍️
+### Tech Stack 🛠️ ✍️
 <table>
 <tbody>
  <tr>
