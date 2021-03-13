@@ -126,3 +126,5 @@
 </table>
 
 <h3>🤛 Connect with Me 🤜</h3> 
+![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-ram%C3%B3n-borges-de-le%C3%B3n-6097bb168/)](https://www.linkedin.com/in/juan-ram%C3%B3n-borges-de-le%C3%B3n-6097bb168/)
