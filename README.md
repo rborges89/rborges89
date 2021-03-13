@@ -77,7 +77,7 @@
 
    <td align="center" width="20%">
    <span><b><center>GraphQL</center></b></span> 
-   <img height=65px src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png">
+   <img height=65px src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png"> 
    </td>
 
    <td align="center" width="20%">
