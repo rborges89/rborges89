@@ -54,71 +54,71 @@ const aboutMe = {
 
 
 <tr>
-<td align="center" width="20%">
-<span><b><center>Azure</center></b></span> 
-<img height=65px src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"> 
-</td>
+   <td align="center" width="20%">
+   <span><b><center>Azure</center></b></span> 
+   <img height=65px src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"> 
+   </td>
 
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
+   <td align="center" width="20%">
+   <span><b><center>Git</center></b></span> 
+   <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+   </td>
 
-<td align="center" width="20%">
-<span><b><center>Symfony</center></b></span> 
-<img height=65px src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png"> 
-</td>
+   <td align="center" width="20%">
+   <span><b><center>Symfony</center></b></span> 
+   <img height=65px src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png"> 
+   </td>
 
-<td align="center" width="20%">
-<span><b><center>Javascript</center></b></span> 
-<img height=65px src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"> 
-</td>
+   <td align="center" width="20%">
+   <span><b><center>Javascript</center></b></span> 
+   <img height=65px src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"> 
+   </td>
+   </tr>
+
+   <tr>
+   <td align="center" width="20%">
+   <span><b><center>Vuetify</center></b></span> 
+   <img height=65px src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"> 
+   </td>
+
+   <td align="center" width="20%">
+   <span><b><center>Linux System Administration</center></b></span> 
+   <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+   </td>
+
+
+
+   <td align="center" width="20%">
+   <span><b><center>GraphQL</center></b></span> 
+   <img height=65px src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png"> 
+   </td>
+
+   <td align="center" width="20%">
+   <span><b><center>Gulp</center></b></span> 
+   <img height=65px src="https://seeklogo.com/images/G/gulp-logo-415632861B-seeklogo.com.png"> 
+   </td>
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<span><b><center>Vuetify</center></b></span> 
-<img height=65px src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"> 
-</td>
+   <td align="center" width="20%">
+   <span><b><center>MySql</center></b></span> 
+   <img height=65px src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png"> 
+   </td>
 
-<td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
-</td>
+   <td align="center" width="20%">
+   <span><b><center>Nginx</center></b></span> 
+   <img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+   </td>
 
+   <td align="center" width="20%">
+   <span><b><center>SQL</center></b></span> 
+   <img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+   </td>
 
-
-<td align="center" width="20%">
-<span><b><center>GraphQL</center></b></span> 
-<img height=65px src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>MySql</center></b></span> 
-<img height=65px src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>AngularJs</center></b></span> 
-<img height=65px src="https://seeklogo.com/images/A/angular-js-logo-BEDAA295A8-seeklogo.com.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Capacitor</center></b></span> 
-<img height=65px src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png"> 
-</td>
+   <td align="center" width="20%">
+   <span><b><center>AngularJs</center></b></span> 
+   <img height=65px src="https://seeklogo.com/images/A/angular-js-logo-BEDAA295A8-seeklogo.com.png"> 
+   </td>
 </tr>
 
 </tbody>
