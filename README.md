@@ -47,6 +47,10 @@ const aboutMe = {
 </td>
 </tr>
 
+<td align="center" width="20%">
+<span><b><center>Capacitor</center></b></span> 
+<img height=65px src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png"> 
+</td>
 <tr>
 <td align="center" width="20%">
 <span><b><center>Azure</center></b></span> 
@@ -107,6 +111,11 @@ const aboutMe = {
 <td align="center" width="20%">
 <span><b><center>AngularJs</center></b></span> 
 <img height=65px src="https://seeklogo.com/images/A/angular-js-logo-BEDAA295A8-seeklogo.com.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Capacitor</center></b></span> 
+<img height=65px src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png"> 
 </td>
 </tr>
 
