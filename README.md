@@ -102,7 +102,7 @@
 
    <td align="center" width="20%">
    <span><b><center>Nginx</center></b></span> 
-   <img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+   <img height=50px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
    </td>
 
    <td align="center" width="20%">
@@ -126,5 +126,5 @@
 </table>
 
 <h3>🤛 Connect with Me 🤜</h3> 
-<img height=60px src="https://seeklogo.com/images/L/linked-in-linkedin-logo-92FF20BA9B-seeklogo.com.png"/>
+<a href="https://www.linkedin.com/in/juan-ram%C3%B3n-borges-de-le%C3%B3n-6097bb168/"> <img height=60px src="https://seeklogo.com/images/L/linked-in-linkedin-logo-92FF20BA9B-seeklogo.com.png"/> </a>
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
