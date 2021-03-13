@@ -125,4 +125,4 @@
 </tbody>
 </table>
 
-<h3>🤛  Connect with Me 🤜</h3> 
+<h3>🤛 Connect with Me 🤜</h3> 
