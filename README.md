@@ -14,55 +14,55 @@
  <tr>
    <td align="center" width="20%">
    <span><b><center></center></b></span> 
-   <img height=60px src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png"> 
+   <img height=40px src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png"> 
    </td>
 
    <td align="center" width="20%">
-   <span><b><center>Vue.js</center></b></span> 
-   <img height=50px src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"> 
    </td>
 
    <td align="center" width="20%">
-   <span><b><center>Docker</center></b></span> 
-   <img height=50px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
    </td>
    
    <td align="center" width="20%">
-   <span><b><center>Capacitor</center></b></span> 
-   <img height=55px src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png"> 
    </td>
    
    <td align="center" width="20%">
-   <span><b><center>Vscode</center></b></span> 
-   <img height=55px src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"> 
    </td>
 </tr>
 
 
 <tr>
    <td align="center" width="20%">
-   <span><b><center>Azure</center></b></span> 
-   <img height=55px src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"> 
    </td>
 
    <td align="center" width="20%">
-   <span><b><center>Git</center></b></span> 
-   <img height=55px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
    </td>
 
    <td align="center" width="20%">
-   <span><b><center>Symfony</center></b></span> 
-   <img height=55px src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png"> 
    </td>
 
    <td align="center" width="20%">
-   <span><b><center>Javascript</center></b></span> 
-   <img height=55px src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"> 
    </td>
    
    <td align="center" width="20%">
-   <span><b><center>Webstorm</center></b></span> 
-   <img height=55px src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png"> 
    </td>
    
    </tr>
