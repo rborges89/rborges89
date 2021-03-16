@@ -13,7 +13,7 @@
 <tbody>
  <tr>
    <td align="center" width="20%">
-   <span><b><center>PHP</center></b></span> 
+   <span><b><center></center></b></span> 
    <img height=60px src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png"> 
    </td>
 
