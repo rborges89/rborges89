@@ -70,56 +70,56 @@
    <tr>
    
    <td align="center" width="20%">
-   <span><b><center>Vuetify</center></b></span> 
-   <img height=55px src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"> 
    </td>
 
    <td align="center" width="20%">
-   <span><b><center>Linux System Administration</center></b></span> 
-   <img height=55px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
    </td>
 
    <td align="center" width="20%">
-   <span><b><center>GraphQL</center></b></span> 
-   <img height=55px src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png"> 
    </td>
 
    <td align="center" width="20%">
-   <span><b><center>Gulp</center></b></span> 
-   <img height=55px src="https://seeklogo.com/images/G/gulp-logo-415632861B-seeklogo.com.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://seeklogo.com/images/G/gulp-logo-415632861B-seeklogo.com.png"> 
    </td>
    
    <td align="center" width="20%">
-   <span><b><center>Phpstorm</center></b></span> 
-   <img height=55px src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png"> 
    </td>
    
 </tr>
 
 <tr>
    <td align="center" width="20%">
-   <span><b><center>MySql</center></b></span> 
-   <img height=55px src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png"> 
    </td>
 
    <td align="center" width="20%">
-   <span><b><center>Nginx</center></b></span> 
-   <img height=50px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
    </td>
 
    <td align="center" width="20%">
-   <span><b><center>SQL</center></b></span> 
-   <img height=55px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
    </td>
 
    <td align="center" width="20%">
-   <span><b><center>AngularJs</center></b></span> 
+   <span><b><center></center></b></span> 
    <img height=35px src="https://seeklogo.com/images/A/angular-js-logo-BEDAA295A8-seeklogo.com.png"> 
    </td>
    
    <td align="center" width="20%">
-   <span><b><center>Html</center></b></span> 
-   <img height=55px src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"> 
+   <span><b><center></center></b></span> 
+   <img height=40px src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"> 
    </td>
    
 </tr>
