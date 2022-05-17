@@ -1,7 +1,7 @@
 <!-- Working GIF -->  
 <img src="https://github.com/BURNING-SOLUTIONS/reeveng/blob/master/svg.svg" alt="dev_object" align="center" width="2000px" height="200"/> 
  <br> 
-<p> :writing_hand: I am a Software Engineer since 2013, of the University of Computer 💻 Sciences of Havana, Cuba 💪 🧑‍ 💪 </p>
+<p> :writing_hand: I am a Software Engineer 🧑‍ since 2013, of the University of Computer 💻 Sciences of Havana, Cuba 💪 </p>
 <p> 💻 Full-Stack in <em>Instapack</em> and <a href="https://isnsecurity.com/">International Security Networks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></a> </p>
  
 :vulcan_salute: I put mostly of my focus on web development wiht Javascript and PHP, and I'm a Vue.js && Symfony nerd
