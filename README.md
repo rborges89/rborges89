@@ -8,7 +8,7 @@
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"/>
 </p>
  
-:vulcan_salute: I put mostly of my focus on web development wiht Javascript and PHP, and I'm a Vue.js && Symfony nerd
+:vulcan_salute: I put mostly of my focus on web development wiht Javascript, Typescript and PHP, and I'm a Vue.js & Symfony nerd
  
 ❤️ Lover of SOLID principles and good programming practices as well as the correct use of data structures <br><br>
 
