@@ -17,117 +17,75 @@
 <tbody>
  <tr>
    <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png"> 
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
    </td>
+   <td align="center" width="20%">
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+   </td>
+   <td align="center" width="20%">
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+   </td>
+   <td align="center" width="20%">
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg"/>
+   </td>
+   <td align="center" width="20%">
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+   </td>
+ </tr>
 
+ <tr>
    <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"> 
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
    </td>
+   <td align="center" width="20%">
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+   </td>
+   <td align="center" width="20%">
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg"/>
+   </td>
+   <td align="center" width="20%">
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+   </td>
+   <td align="center" width="20%">
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg"/>
+   </td>
+ </tr>
 
+ <tr>
    <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg"/>
    </td>
-   
    <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png"> 
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
    </td>
-   
    <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"> 
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
    </td>
-</tr>
+   <td align="center" width="20%">
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"/>
+   </td>
+   <td align="center" width="20%">
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg"/>
+   </td>
+ </tr>
 
-
-<tr>
+ <tr>
    <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"> 
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
    </td>
-
    <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=35px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
    </td>
-
    <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png"> 
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
    </td>
-
    <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"> 
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
    </td>
-   
    <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png"> 
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
    </td>
-   
-   </tr>
-
-   <tr>
-   
-   <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"> 
-   </td>
-
-   <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
-   </td>
-
-   <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png"> 
-   </td>
-
-   <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://seeklogo.com/images/G/gulp-logo-415632861B-seeklogo.com.png"> 
-   </td>
-   
-   <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png"> 
-   </td>
-   
-</tr>
-
-<tr>
-   <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png"> 
-   </td>
-
-   <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
-   </td>
-
-   <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-   </td>
-
-   <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=35px src="https://seeklogo.com/images/A/angular-js-logo-BEDAA295A8-seeklogo.com.png"> 
-   </td>
-   
-   <td align="center" width="20%">
-   <span><b><center></center></b></span> 
-   <img height=40px src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"> 
-   </td>
-   
-</tr>
-
+ </tr>
 </tbody>
 </table>
 <br>
