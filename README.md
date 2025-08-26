@@ -62,11 +62,11 @@
 
 <h3>🤛 Connect with Me 🤜</h3> 
 <a href="https://www.linkedin.com/in/juan-ram%C3%B3n-borges-de-le%C3%B3n-6097bb168/">
-  <img src="https://camo.githubusercontent.com/c51eb7cfdbaa9e8f7d3cc1127c555484b3951ca4677fe8ca04fef3da3b74550b/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6769746875622e706e67"/>
+  <img src="https://camo.githubusercontent.com/c3f956a855010b41bb7569ae601cd6ae6331414adf8e3ffe9eed6949faa9d298/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6c696e6b6564696e2e706e67"/>
 </a>
 <a href="https://github.com/rborges89">
   <img src="https://camo.githubusercontent.com/c51eb7cfdbaa9e8f7d3cc1127c555484b3951ca4677fe8ca04fef3da3b74550b/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6769746875622e706e67"/>
 </a>
 <a href="mailto:ramon.vidala89@gmail.com">
-  <img height="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"/>
+  <img src="https://camo.githubusercontent.com/7f8be8b5bcd4fbb1540dc8b726a421b3da412bc3c7697d9e1db706579973d505/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f676d61696c2e706e67"/>
 </a>
