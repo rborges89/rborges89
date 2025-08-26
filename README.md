@@ -10,7 +10,10 @@
 ❤️ Lover of SOLID principles and good programming practices as well as the correct use of data structures <br><br>
 
 ### Tech Stack 🛠️ ✍️
-<table>
+<div>
+ <table>
+  <head>
+   <th><table>
 <tbody>
  <tr>
    <td align="center" width="20%"><img height="60" alt="PHP"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></td>
@@ -45,6 +48,18 @@
  </tr>
 </tbody>
 </table>
+</th>
+<th> 
+ <p>
+  <img  height="100" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"/>
+ </p>
+</th>
+ </head>
+ </table>
+ 
+
+</div>
+
 
 <br>
 <h3>🤛 Connect with Me 🤜</h3> 
