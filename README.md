@@ -132,6 +132,12 @@
 </table>
 <br>
 <h3>🤛 Connect with Me 🤜</h3> 
-<a href="https://www.linkedin.com/in/juan-ram%C3%B3n-borges-de-le%C3%B3n-6097bb168/"> <img height=22px src="https://seeklogo.com/images/L/linked-in-linkedin-logo-92FF20BA9B-seeklogo.com.png"/> </a>
-<a href="https://github.com/rborges89"> <img height=22px src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png"/> </a>
-<a href="mailto:ramon.vidala89@gmail.com"> <img height=20px src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"/> </a>
+<a href="https://www.linkedin.com/in/juan-ram%C3%B3n-borges-de-le%C3%B3n-6097bb168/">
+  <img height="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+</a>
+<a href="https://github.com/rborges89">
+  <img height="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</a>
+<a href="mailto:ramon.vidala89@gmail.com">
+  <img height="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"/>
+</a>
