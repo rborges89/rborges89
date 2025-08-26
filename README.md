@@ -65,7 +65,7 @@
   <img height="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
 <a href="https://github.com/rborges89">
-  <img height="22px" src="https://camo.githubusercontent.com/c51eb7cfdbaa9e8f7d3cc1127c555484b3951ca4677fe8ca04fef3da3b74550b/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6769746875622e706e67"/>
+  <img src="https://camo.githubusercontent.com/c51eb7cfdbaa9e8f7d3cc1127c555484b3951ca4677fe8ca04fef3da3b74550b/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6769746875622e706e67"/>
 </a>
 <a href="mailto:ramon.vidala89@gmail.com">
   <img height="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"/>
