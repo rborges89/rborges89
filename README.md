@@ -14,79 +14,41 @@
 
 ### Tech Stack 🛠️ ✍️
 <table>
+<table>
 <tbody>
  <tr>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-   </td>
+   <td align="center" width="20%"><img height="40" alt="PHP"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="Vue.js"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="React"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="Capacitor" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="VS Code"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></td>
  </tr>
 
  <tr>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg"/>
-   </td>
+   <td align="center" width="20%"><img height="40" alt="Azure"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"/></td>
+   <td align="center" width="20%"><img height="35" alt="Git"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="Symfony"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="JavaScript"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="WebStorm"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"/></td>
  </tr>
 
  <tr>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg"/>
-   </td>
+   <td align="center" width="20%"><img height="40" alt="Vuetify"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="Linux"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="GraphQL"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="Gulp"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="PhpStorm"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg"/></td>
  </tr>
 
  <tr>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-   </td>
-   <td align="center" width="20%">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-   </td>
+   <td align="center" width="20%"><img height="40" alt="MySQL"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="PostgreSQL"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="SQLite"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/></td>
+   <td align="center" width="20%"><img height="35" alt="Angular"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="HTML5"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></td>
  </tr>
 </tbody>
+</table>
 </table>
 <br>
 <h3>🤛 Connect with Me 🤜</h3> 
