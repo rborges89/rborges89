@@ -51,17 +51,15 @@
 </th>
 <th> 
  <p>
-  <img  height="100" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"/>
+  <img  height="200" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"/>
  </p>
 </th>
  </head>
  </table>
- 
-
 </div>
 
-
 <br>
+
 <h3>🤛 Connect with Me 🤜</h3> 
 <a href="https://www.linkedin.com/in/juan-ram%C3%B3n-borges-de-le%C3%B3n-6097bb168/">
   <img height="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
