@@ -62,7 +62,7 @@
 
 <h3>🤛 Connect with Me 🤜</h3> 
 <a href="https://www.linkedin.com/in/juan-ram%C3%B3n-borges-de-le%C3%B3n-6097bb168/">
-  <img height="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  <img src="https://camo.githubusercontent.com/c51eb7cfdbaa9e8f7d3cc1127c555484b3951ca4677fe8ca04fef3da3b74550b/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6769746875622e706e67"/>
 </a>
 <a href="https://github.com/rborges89">
   <img src="https://camo.githubusercontent.com/c51eb7cfdbaa9e8f7d3cc1127c555484b3951ca4677fe8ca04fef3da3b74550b/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6769746875622e706e67"/>
