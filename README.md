@@ -17,7 +17,7 @@
 <tbody>
  <tr>
    <td align="center" width="20%"><img height="40" alt="PHP"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></td>
-   <td align="center" width="20%"><img height="40" alt="Vue.js"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/></td>
+   <td align="center" width="20%"><img height="40" alt="Vue.js"    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png"/></td>
    <td align="center" width="20%"><img height="40" alt="React"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></td>
    <td align="center" width="20%"><img height="40" alt="Capacitor" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg"/></td>
    <td align="center" width="20%"><img height="40" alt="VS Code"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></td>
