@@ -14,7 +14,6 @@
 
 ### Tech Stack 🛠️ ✍️
 <table>
-<table>
 <tbody>
  <tr>
    <td align="center" width="20%"><img height="40" alt="PHP"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></td>
