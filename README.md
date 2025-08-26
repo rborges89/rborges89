@@ -16,15 +16,15 @@
 <table>
 <tbody>
  <tr>
-   <td align="center" width="20%"><img height="40" alt="PHP"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></td>
-   <td align="center" width="20%"><img height="40" alt="Vue.js"    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png"/></td>
-   <td align="center" width="20%"><img height="40" alt="React"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></td>
-   <td align="center" width="20%"><img height="40" alt="Capacitor" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg"/></td>
-   <td align="center" width="20%"><img height="40" alt="VS Code"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="PHP"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="Vue.js"    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png"/></td>
+   <td align="center" width="20%"><img height="60" alt="React"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="Capacitor" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="VS Code"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></td>
  </tr>
 
  <tr>
-   <td align="center" width="20%"><img height="40" alt="Azure"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="Azure"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"/></td>
    <td align="center" width="20%"><img height="35" alt="Git"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></td>
    <td align="center" width="20%"><img height="40" alt="Symfony"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg"/></td>
    <td align="center" width="20%"><img height="40" alt="JavaScript"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></td>
