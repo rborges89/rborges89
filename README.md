@@ -25,26 +25,26 @@
 
  <tr>
    <td align="center" width="20%"><img height="60" alt="Azure"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"/></td>
-   <td align="center" width="20%"><img height="35" alt="Git"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></td>
-   <td align="center" width="20%"><img height="40" alt="Symfony"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg"/></td>
-   <td align="center" width="20%"><img height="40" alt="JavaScript"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></td>
-   <td align="center" width="20%"><img height="40" alt="WebStorm"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="Git"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="Symfony"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="JavaScript"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="WebStorm"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"/></td>
  </tr>
 
  <tr>
-   <td align="center" width="20%"><img height="40" alt="Vuetify"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg"/></td>
-   <td align="center" width="20%"><img height="40" alt="Linux"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></td>
-   <td align="center" width="20%"><img height="40" alt="GraphQL"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"/></td>
-   <td align="center" width="20%"><img height="40" alt="Gulp"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"/></td>
-   <td align="center" width="20%"><img height="40" alt="PhpStorm"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="Vuetify"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="Linux"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="GraphQL"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="Gulp"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="PhpStorm"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg"/></td>
  </tr>
 
  <tr>
-   <td align="center" width="20%"><img height="40" alt="MySQL"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></td>
-   <td align="center" width="20%"><img height="40" alt="PostgreSQL"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/></td>
-   <td align="center" width="20%"><img height="40" alt="SQLite"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/></td>
-   <td align="center" width="20%"><img height="35" alt="Angular"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/></td>
-   <td align="center" width="20%"><img height="40" alt="HTML5"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="MySQL"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="PostgreSQL"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/></td>
+   <td align="center" width="20%"><img height="60 alt="SQLite"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="Angular"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/></td>
+   <td align="center" width="20%"><img height="60" alt="HTML5"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></td>
  </tr>
 </tbody>
 </table>
